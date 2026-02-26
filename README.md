@@ -8,7 +8,7 @@
 
 ###
 
-<h5 align="center">A Web Developer, from Philippines</h5>
+<h5 align="center">A Lazy Web Developer, from Philippines</h5>
 
 ###
 
