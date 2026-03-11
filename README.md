@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Next.JS<br>🎯 Goals: Financially Stable<br>🎲 Fun fact: My favorite debugging tool is coffee.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Next.JS<br>🎯 Goals: Financial Freedom<br>🎲 Fun fact: My favorite debugging tool is coffee.</p>
 
 ###
 
